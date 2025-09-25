@@ -1,0 +1,12 @@
+{
+  "name": "exercices_typescript-poo-semaine2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"ts-node src/exercice1_jour2.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
